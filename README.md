@@ -8,6 +8,10 @@ clone project with
 ```bash
   git clone <REPOSITORY_URL>
 ```
+setup a postgres database named
+```
+items
+```
 ## Installation
 
 Install packages with npm
