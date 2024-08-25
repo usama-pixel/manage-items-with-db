@@ -12,6 +12,7 @@ setup a postgres database named
 ```
 items
 ```
+create a .env file, and copy the .env.sample file into it with your local database credentials (eg. db username, password ...)
 ## Installation
 
 Install packages with npm
